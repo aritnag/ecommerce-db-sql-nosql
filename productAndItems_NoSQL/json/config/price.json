@@ -1,0 +1,1 @@
+{ "_id" : "SPM8824542513_1234", "price" : "69.99", "sale" : { "salePrice" : "42.72", "saleEndDate" : "2050-12-31 23:59:59" }, "lastUpdated" : { "$numberLong" : "1374647707394" } }
